@@ -1,0 +1,2 @@
+[INFO]OpenGL versionn: 4.5.0 - Build 22.20.16.4836 in file: c:\gamedev_projects\core engine\core engine\engine\core\window.cpp on line: 52
+[INFO]Everything Initialized fine in Engine in file: Engine.cpp on line: 60
